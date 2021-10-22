@@ -18,8 +18,6 @@
   ```sh
   npm i
   ```
-then
-
  * node
   ```sh
   node .\index.js
