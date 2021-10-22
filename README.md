@@ -11,7 +11,7 @@
   - [Questions](#questions)
 
   ## Installation
-  clone repo to your machine
+  clone repo to your machine and make sure you have node installed
 
   ## Usage
   * Step 1
