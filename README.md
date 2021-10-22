@@ -14,7 +14,16 @@
   clone repo to your machine
 
   ## Usage
-  Open terminal in folder and run "npm i" then run "node index.js"
+  * npm
+  ```sh
+  npm i
+  ```
+then
+
+ * node
+  ```sh
+  node .\index.js
+  ```
 
   ## License
   MIT
