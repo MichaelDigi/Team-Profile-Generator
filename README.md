@@ -14,11 +14,11 @@
   clone repo to your machine
 
   ## Usage
-  * npm
+  * Step 1
   ```sh
   npm i
   ```
- * node
+ * Step 2
   ```sh
   node .\index.js
   ```
