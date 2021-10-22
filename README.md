@@ -10,6 +10,11 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
+  ### Built With
+
+  * [Node.js](https://nodejs.org/en/)
+  * [npm.js](https://www.npmjs.com/)
+
   ## Installation
   clone repo to your machine and make sure you have node installed
 
